@@ -1,0 +1,27 @@
+.cohete{
+width: 100px;    
+}
+
+span{
+    background-color: red;
+}
+div{
+    background-color: lightblue;
+    width: 200px;
+}
+
+li{
+    list-style-type: none;
+}
+.menu{
+    display: flex;
+    gap: 10px;
+
+}
+.card{
+    border: 2px solid brown;
+}
+#text2{
+    font-weight: bolder;
+    color: chocolate;
+}
